@@ -1,5 +1,5 @@
 package cariganjil;
-
+// tambah kommen disini bang
 import java.util.Scanner;
 
 public class Carigenap {
